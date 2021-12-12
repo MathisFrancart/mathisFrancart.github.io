@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>SAE6-eco</title>
+  <link rel="stylesheet" href="style/index.css" type="text/css" media="screen" />
+</head>
+
+<body onload="new Accordian('basic-accordian',5,'header_highlight');">
+    <div id="Titre" class="accordion_headings header_highlight"> 
+	<p>  SAE6-eco</p> 
+	</div>
+ 
+  <div id="basic-accordian">
+    <div id="Titre-Adagos" class="accordion_headings highlight">Adagos, l'IA intelligente :</div>
+	<div id="Titre-BeeGuard" class="accordion_headings highlight">BeeGuard, les ruches connectées :</div>
+
+    <div id="test-content">
+	<div id="Adagos" class="accordion_child">
+	
+	<img src="images/Adagos.jpg"
+	         width="370"
+             height="150"
+			alt="Le logo d'Adagos">
+	
+	 <p> 	  <p>  <a href="file:///F:/Adagos/.html">Adagos</a> </p>
+ </p>
+	  
+
+    </div>
+   
+   <div id="BeeGuard" class="accordion_child">
+
+	<img src="images/Beeguard.jpg"
+			alt="Le logo de BeeGuard">
+			
+	  <p>  <a href="file:///F:/BeeGuard/BeeGuard.html">BeeGuard</a> </p>
+	  
+	  
+    </div>
+    </div>
+	</div>
+  
+    <div id="test-header" class="accordion_headings header_highlight"> Leurs modèles économiques : </div>
+    <div id="test1-content">
+      <div class="accordion_child">
+	  
+      </div>
+    </div>
+
+	  
+</body>
+</html>
